@@ -16,6 +16,7 @@ state={
 			10099 1 
 		}
 		add_core_of = EGY
+owner = EGY
 
 	}
 

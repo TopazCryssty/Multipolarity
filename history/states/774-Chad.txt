@@ -5,6 +5,8 @@ state={
 	history={
  
 		add_core_of = CHA
+		add_core_of = FRA
+		owner = FRA
 		victory_points = {
 			2081 1
 		}

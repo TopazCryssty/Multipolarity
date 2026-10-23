@@ -9,6 +9,7 @@ state = {
 		
  
 		add_core_of = EGY
+owner = EGY
 
 		buildings = {
 			infrastructure = 2

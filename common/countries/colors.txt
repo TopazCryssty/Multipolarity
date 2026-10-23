@@ -3,8 +3,8 @@ SOV = {
 	color_ui = rgb {125  13  24}
 }
 GER = {
-	color = rgb { 106  119  89 }
-	color_ui = rgb { 106  119  89 }
+	color = rgb { 85 85 85 }
+	color_ui = rgb { 85 85 85 }
 }
 ITA = {
 	color = rgb { 67  127  63 }
@@ -87,8 +87,8 @@ CAM = {
 }
 
 AOI = {
-	color = rgb { 67  127  63 }
-	color_ui = rgb { 67  127  63 }
+	color = rgb { 64 120 64 }
+	color_ui = rgb { 64 120 64 }
 }
 
 SWI = {
@@ -202,8 +202,8 @@ NIC = {
 }
 
 EGY = {
-	color = rgb { 67  127  63 }
-	color_ui = rgb { 67  127  63 }
+	color = rgb { 96 145 81 }
+	color_ui = rgb { 96 145 81 }
 }
 
 SAU = {
@@ -287,13 +287,13 @@ SLV = {
 }
 
 RKG = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 95 95 95 }
 }
 
 RKN = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 95 95 95 }
 }
 MNT = {
 	color = rgb { 69 103 196 }
@@ -331,13 +331,13 @@ POL = {
 }
 
 GEN = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 95 95 95 }
 }
 
 RKH = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 95 95 95 }
 }
 
 CZE = {
@@ -346,8 +346,8 @@ CZE = {
 }
 
 SER = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 95 95 95 }
 }
 
 GRE = {
@@ -366,8 +366,8 @@ FIN = {
 }
 
 DEN = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 95 95 95 }
 }
 BUL = {
 	color = rgb { 184 75 82 }

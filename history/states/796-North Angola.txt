@@ -13,6 +13,7 @@ state={
 			2115 1 
 		}
 		add_core_of = ANG
+		owner = POR
 	}
 	provinces={
 		2115 
