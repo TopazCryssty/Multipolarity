@@ -127,8 +127,8 @@ ARG = {
 }
 
 BRA = {
-	color = rgb { 135 87 82 }
-	color_ui = rgb { 135 87 82 }
+	color = rgb { 76 130 78 }
+	color_ui = rgb { 76 120 78 }
 }
 
 VEN = {
