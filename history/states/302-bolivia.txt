@@ -14,7 +14,7 @@ state = {
 
  
 		add_core_of = BOL
-
+		owner = BOL
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

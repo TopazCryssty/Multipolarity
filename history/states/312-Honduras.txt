@@ -24,6 +24,7 @@ state=
 			}
 		}
 		add_core_of = HON
+		owner = HON
 		victory_points = {
 			12865 3 
 		}

@@ -13,6 +13,7 @@ state = {
 
  
 		add_core_of = ARG
+owner = ARG
 		add_core_of = WLA
 
 		buildings = {

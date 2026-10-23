@@ -15,6 +15,7 @@ state = {
  
 
 		add_core_of = BRA
+owner = BRA
 
 		buildings = {
 			infrastructure = 3 #was: 5

@@ -19,6 +19,7 @@ state = {
 		}
 
 		add_core_of = PRU
+owner = PRU
 		add_core_of = ECU
 	}
 

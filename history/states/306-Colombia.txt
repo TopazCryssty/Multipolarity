@@ -15,6 +15,7 @@ state={
 			air_base = 2
 		}
 		add_core_of = COL
+owner = COL
 		victory_points = {
 			10747 10
 		}

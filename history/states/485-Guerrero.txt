@@ -21,6 +21,7 @@ state={
 			}
 		}
 		add_core_of = MEX
+owner = MEX
 		victory_points = {
 			10730 5
 		}

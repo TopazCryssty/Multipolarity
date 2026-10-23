@@ -9,6 +9,7 @@ state={
 	history={
  
 		add_core_of = CAY
+		owner = VIC
 		buildings = {
 			infrastructure = 1
 			12885 = {

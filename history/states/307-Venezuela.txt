@@ -25,6 +25,7 @@ state={
 			}
 		}
 		add_core_of = VEN
+owner = VEN
 		victory_points = {
 			8113 5 
 		}

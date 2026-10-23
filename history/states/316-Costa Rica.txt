@@ -22,6 +22,7 @@ state={
 			}
 		}
 		add_core_of = COS
+		owner = COS
 		victory_points = {
 			13087 3
 		}

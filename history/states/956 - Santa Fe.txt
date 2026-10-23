@@ -13,6 +13,7 @@ state = {
 
  
 		add_core_of = ARG
+owner = ARG
 
 		buildings = {
 			infrastructure = 2 #was: 5

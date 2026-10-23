@@ -21,6 +21,7 @@ state={
 			}
 		}
 		add_core_of = BRA
+owner = BRA
 		victory_points = {
 			10946 1 
 		}
