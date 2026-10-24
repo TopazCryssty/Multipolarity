@@ -12,6 +12,7 @@ state = {
 
  
 		add_core_of = PER
+owner = PER
 
 		victory_points = {
 			8117 3 

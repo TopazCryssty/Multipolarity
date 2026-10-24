@@ -1,0 +1,18 @@
+﻿capital = 319
+set_research_slots = 2
+set_stability = 0.1
+set_war_support = 0.011
+
+# Базовая политика (Нейтралитет)
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 66
+	neutrality = 24
+	communism = 2
+	democratic = 8
+}

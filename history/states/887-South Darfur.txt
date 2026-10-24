@@ -9,6 +9,7 @@ state={
 		owner = AOI
 		add_claim_by = AOI
 		add_core_of = SUD
+owner = EGY
 		buildings = {
 			infrastructure = 1
 		}

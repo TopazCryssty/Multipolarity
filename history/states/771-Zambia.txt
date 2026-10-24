@@ -14,6 +14,7 @@ state = {
 
  
 		add_core_of = ZAM
+		owner = ENG
 
 		victory_points = {
 			5199 2 #Lusaka

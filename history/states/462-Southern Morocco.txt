@@ -13,7 +13,7 @@ state = {
 		victory_points = {
 			4108 3 # Marrakesh
 		}
-
+		owner = VIC
 		buildings = {
 			infrastructure = 1
 		}

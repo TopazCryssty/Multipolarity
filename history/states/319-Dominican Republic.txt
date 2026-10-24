@@ -22,6 +22,7 @@ state=
 			}
 		}
 		add_core_of = DOM
+		owner = DOM
 		victory_points = {
 			7660 5 
 		}

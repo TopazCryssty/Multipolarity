@@ -15,6 +15,7 @@ state = {
  
 		add_core_of = ZAM
 		add_core_of = BAR
+		owner = ENG
 
 		victory_points = {
 			697 1 # Mongu

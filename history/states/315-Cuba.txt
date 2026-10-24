@@ -24,6 +24,7 @@ state= {
 			}
 		}
 		add_core_of = CUB
+		owner = CUB
 		victory_points = {
 			7622 5 
 		}

@@ -16,6 +16,7 @@ state=
 			}
 		}
 		add_core_of = PHI
+owner = PHI
 	}
 	provinces={
 		4429 7419 10145 

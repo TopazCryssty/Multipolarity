@@ -12,6 +12,7 @@ state=
 			infrastructure = 2
 		}
 		add_core_of = PHI
+owner = PHI
 	}
 	provinces={
 		1224 1311 1340 4269 4373 

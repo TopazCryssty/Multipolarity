@@ -6,7 +6,7 @@ state={
 	impassable = yes
 
 	history={
- 
+		owner = VIC
 		add_core_of = NGR
 
 	}

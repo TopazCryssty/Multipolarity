@@ -18,6 +18,7 @@ state={
 			5064 1 
 		}
 		add_core_of = AFG
+		owner = AFG
 	}
 
 	provinces={

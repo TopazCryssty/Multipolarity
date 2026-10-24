@@ -21,8 +21,8 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = COS
-		owner = COS
+		add_core_of = KOS
+		owner = KOS
 		victory_points = {
 			13087 3
 		}

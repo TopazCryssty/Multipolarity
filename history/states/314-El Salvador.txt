@@ -22,7 +22,7 @@ state=
 			}
 		}
 		add_core_of = ELS
-		owber = ELS
+		owner = ELS
 		victory_points = {
 			12823 3
 		}

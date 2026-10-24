@@ -13,6 +13,7 @@ state={
 		}
 		
 		add_core_of = SAF
+owner = SAF
 		add_core_of = NMB
 
 	}

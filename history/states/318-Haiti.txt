@@ -22,6 +22,7 @@ state=
 			}
 		}
 		add_core_of = HAI
+		owner = HAI
 		victory_points = {
 			4641 5 
 		}

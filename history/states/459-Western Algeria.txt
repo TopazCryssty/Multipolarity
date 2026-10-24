@@ -12,6 +12,7 @@ state={
 	history={
  
 		add_core_of = ALG
+owner = VIC
 
 		victory_points = {
 			1145 5 

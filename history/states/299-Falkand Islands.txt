@@ -9,7 +9,7 @@ state = {
 
  
 		add_claim_by = ARG
-
+		owner = ENG
 		buildings = {
 			infrastructure = 1
 			12960 = {

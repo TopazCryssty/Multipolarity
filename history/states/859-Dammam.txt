@@ -11,7 +11,7 @@ state = {
 
  
 		add_core_of = SAU
-
+		owner = SAU
 		victory_points = {
 			12702 1 
 		}

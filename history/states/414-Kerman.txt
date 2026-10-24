@@ -18,6 +18,7 @@ state={
 			7990 1 
 		}
 		add_core_of = PER
+owner = PER
 	}
 
 	provinces={

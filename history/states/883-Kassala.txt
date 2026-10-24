@@ -8,6 +8,7 @@ state = {
 		owner = AOI
 		add_claim_by = AOI
 		add_core_of = SUD
+owner = EGY
 		victory_points = {
 			12725 1 
 		}

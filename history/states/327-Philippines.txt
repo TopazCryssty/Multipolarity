@@ -24,6 +24,7 @@ state=
 			1221 1 
 		}
 		add_core_of = PHI
+owner = PHI
 	}
 
 	provinces={

@@ -15,6 +15,7 @@ state={
  
 		add_core_of = MOR
 		add_core_of = RIF
+		owner = SPA
 		victory_points = {
 			9945 3
 		}

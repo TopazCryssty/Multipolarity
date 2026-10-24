@@ -12,7 +12,7 @@ state = {
 		
 		
 		add_core_of = BRD
-
+		owner = COG
 		victory_points = {
 			2220 1
 		}
