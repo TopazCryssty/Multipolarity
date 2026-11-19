@@ -6,8 +6,9 @@ state={
 	state_category = town
 
 	history={
- 
+		controller = RNG
 		add_core_of = CHI
+owner = CHI
 		add_core_of = PRC
 		buildings = {
 			infrastructure = 2

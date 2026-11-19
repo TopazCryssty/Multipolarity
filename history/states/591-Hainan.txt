@@ -5,9 +5,10 @@ state={
 	state_category = town
 
 	history={
- 
-		add_core_of = GXC
+		controller = JAP
+		owner = CHI
 		add_core_of = CHI
+owner = CHI
 		add_core_of = PRC
 		
 		victory_points = {

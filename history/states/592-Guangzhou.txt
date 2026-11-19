@@ -10,9 +10,10 @@ state={
 	}
 
 	history={
- 
+		controller = RNG
 		add_core_of = GXC
 		add_core_of = CHI
+owner = CHI
 		add_core_of = PRC
 		
 		buildings = {

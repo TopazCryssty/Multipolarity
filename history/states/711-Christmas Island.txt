@@ -6,7 +6,8 @@ state={
 	
 	history=
 	{
- 
+		owner = JAP
+		add_claim_by = ENG
 		buildings = {
 			infrastructure = 2
 			13005 = {

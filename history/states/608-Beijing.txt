@@ -10,6 +10,8 @@ state={
  
 		add_core_of = CHI
 		add_core_of = PRC
+		controller = RNG
+		owner = CHI
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2

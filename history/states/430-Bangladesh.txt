@@ -18,6 +18,7 @@ state={
 
 		}
 		add_core_of = PAK
+owner = RAJ
 		add_core_of = RAJ
 
 	}

@@ -6,7 +6,8 @@ state={
 	state_category = tiny_island
 
 	history={
- 
+		owner = JAP
+		add_claim_by = USA
 		add_core_of = GUM
 		buildings = {
 			infrastructure = 2

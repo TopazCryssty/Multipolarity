@@ -8,8 +8,9 @@ state=
 	
 	history=
 	{
- 
+		controller = RNG
 		add_core_of = CHI
+owner = CHI
 		add_core_of = PRC
 		victory_points = {
 			1069 3 
