@@ -12,23 +12,16 @@ state={
  
 		add_core_of = SHX
 		add_core_of = CHI
-owner = CHI
+		owner = CHI
 		add_core_of = PRC
 		add_core_of = MEN
 		
 		buildings = {
 			infrastructure = 1
 		}
-
-		1938.10.25 = {
- 
-		}
-		
-		1939.1.1 = {
-			
- 
- 
-
+		1956.1.1 = { 
+			owner = CHI
+			controller = MEN
 		}
 	}
 	manpower=500000

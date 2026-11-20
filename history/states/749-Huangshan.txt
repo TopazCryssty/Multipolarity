@@ -10,8 +10,12 @@ state={
 	history={
  
 		add_core_of = CHI
-owner = CHI
+		owner = CHI
 		add_core_of = PRC
+		1956.1.1 = { 
+			owner = CHI
+			controller = RNG
+		}
 		buildings = {
 			infrastructure = 2
 		}

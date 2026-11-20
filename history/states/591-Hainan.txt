@@ -5,12 +5,13 @@ state={
 	state_category = town
 
 	history={
-		controller = JAP
 		owner = CHI
 		add_core_of = CHI
-owner = CHI
 		add_core_of = PRC
-		
+		1956.1.1 = { 
+			owner = CHI
+			controller = JAP
+		}
 		victory_points = {
 			1070 1 
 		}

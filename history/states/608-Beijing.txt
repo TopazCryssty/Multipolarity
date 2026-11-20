@@ -10,7 +10,6 @@ state={
  
 		add_core_of = CHI
 		add_core_of = PRC
-		controller = RNG
 		owner = CHI
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -27,8 +26,9 @@ state={
 			10068 1 
 		}
 
-		1938.10.25 = {
- 
+		1956.1.1 = { 
+			owner = CHI
+			controller = RNG
 		}
 	}
 

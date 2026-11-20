@@ -5,9 +5,12 @@ state= {
 	state_category = city
 	history=
 	{
-		controller = RNG
 		add_core_of = CHI
-owner = CHI
+		owner = CHI
+		1956.1.1 = { 
+			owner = CHI
+			controller = RNG
+		}
 		add_core_of = PRC
 		buildings = {
 			infrastructure = 2

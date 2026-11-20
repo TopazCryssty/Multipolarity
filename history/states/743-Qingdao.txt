@@ -8,9 +8,8 @@ state=
 	
 	history=
 	{
-		controller = RNG
 		add_core_of = CHI
-owner = CHI
+		owner = CHI
 		add_core_of = PRC
 		victory_points = {
 			10000 5 
@@ -26,8 +25,9 @@ owner = CHI
 			}
 		}
 
-		1938.10.25 = {
- 
+		1956.1.1 = { 
+			owner = CHI
+			controller = RNG
 		}
 	}
 	provinces={

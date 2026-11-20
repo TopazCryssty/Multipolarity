@@ -5,10 +5,8 @@ state = {
 	state_category = city
 
 	history = {
-
-		controller = RNG
 		add_core_of = CHI
-owner = CHI
+		owner = CHI
 		add_core_of = PRC
 		
 		victory_points = { 
@@ -17,7 +15,10 @@ owner = CHI
 		victory_points = { 
 			7191 1 # Hangzhou
 		}
-		
+		1956.1.1 = { 
+			owner = CHI
+			controller = RNG
+		}
 		buildings = {
 
 			infrastructure = 2
