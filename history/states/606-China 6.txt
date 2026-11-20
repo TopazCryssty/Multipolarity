@@ -8,7 +8,7 @@ state={
 	history={
  
 		add_core_of = CHI
-owner = CHI
+		owner = CHI
 		add_core_of = PRC
 		buildings = {
 			infrastructure = 4
@@ -17,6 +17,10 @@ owner = CHI
 		}
 		victory_points = {
 			7222 1 
+		}
+		1956.1.1 = { 
+			owner = CHI
+			controller = RNG
 		}
 		1938.10.25 = {
  
