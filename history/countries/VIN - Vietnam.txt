@@ -2,7 +2,14 @@
 set_research_slots = 3
 set_stability = 0.50
 set_war_support = 0.50
-
+declare_war_on = {
+		target = CHI
+		type = annex_everything
+}
+declare_war_on = {
+		target = PRC
+		type = annex_everything
+}
 # Базовая политика (Нейтралитет)
 set_politics = {
 	ruling_party = neutrality

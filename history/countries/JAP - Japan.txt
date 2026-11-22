@@ -5,7 +5,88 @@ set_war_support = 0.50
 declare_war_on = {
 		target = CHI
 		type = annex_everything
-	}
+}
+declare_war_on = {
+		target = PRC
+		type = annex_everything
+}
+set_autonomy = {
+    target = RNG
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = MEN
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = INS
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = MAN
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = PHI
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = MAN
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = VIN
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = CAM
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = LAO
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = BYR
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = RAJ
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
 # Базовая политика (Нейтралитет)
 set_politics = {
 	ruling_party = fascism

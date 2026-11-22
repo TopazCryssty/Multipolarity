@@ -1,16 +1,74 @@
 ﻿capital = 613
 set_research_slots = 3
-set_stability = 0.50
-set_war_support = 0.50
+set_stability = 0.12
+set_war_support = 0.09
 
-# Базовая политика (Нейтралитет)
+declare_war_on = {
+		target = CHI
+		type = annex_everything
+}
+declare_war_on = {
+		target = RNG
+		type = annex_everything
+}
+set_province_controller = 12378
+set_province_controller = 11918
+set_province_controller = 9982
+set_province_controller = 1448
+set_province_controller = 12350
+set_province_controller = 7159
+set_province_controller = 4125
+set_province_controller = 13143
+set_province_controller = 1640
+set_province_controller = 7097
+set_province_controller = 9999
+set_province_controller = 4631
+set_province_controller = 4619
+set_province_controller = 1036
+set_province_controller = 1653
+set_province_controller = 1196
+set_province_controller = 1172
+set_province_controller = 12789
+set_province_controller = 7965
+set_province_controller = 4559
+set_province_controller = 12898
+set_province_controller = 7976
+set_province_controller = 5009
+set_province_controller = 10413
+set_province_controller = 10776
+set_province_controller = 12262
+set_province_controller = 8023
+set_province_controller = 1383
+set_province_controller = 1522
+set_province_controller = 1114
+set_province_controller = 4501
+set_province_controller = 10346
+set_province_controller = 8023
+set_province_controller = 7129
+set_province_controller = 4010
+set_province_controller = 7085
+set_province_controller = 9995
+set_province_controller = 4074
+set_province_controller = 12300
+set_province_controller = 10507
+set_province_controller = 12432
+set_province_controller = 10480
+set_province_controller = 1027
+set_province_controller = 1438
+set_province_controller = 1203
+set_province_controller = 4469
+set_province_controller = 10863
+set_province_controller = 7134
+set_province_controller = 7637
+set_province_controller = 9959
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	fascism = 68
-	neutrality = 32
+	neutrality = 9
+	communism 23
 }

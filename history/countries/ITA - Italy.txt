@@ -2,7 +2,48 @@
 set_research_slots = 4
 set_stability = 0.50
 set_war_support = 0.50
-
+set_autonomy = {
+    target = SLV
+    autonomous_state = autonomy_integrated_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = CRO
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = ALB
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = MNT
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = AOI
+    autonomous_state = autonomy_integrated_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = EGY
+    autonomous_state = autonomy_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
 # Базовая политика (Нейтралитет)
 set_politics = {
 	ruling_party = fascism

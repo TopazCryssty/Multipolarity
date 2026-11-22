@@ -2,8 +2,62 @@
 set_research_slots = 4
 set_stability = 0.50
 set_war_support = 0.50
-
-# Базовая политика (Нейтралитет)
+set_autonomy = {
+    target = BUL
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = IRQ
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = SYR
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = KUR
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = MON
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = TUR
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = SIK
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = autonomy_puppet
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
 set_politics = {
 	ruling_party = communism
 	last_election = "1936.1.1"

@@ -151,7 +151,7 @@ CUB = {
 	color_ui = rgb { 124 99 97 }
 }
 
-KOS = {
+COS = {
 	color = rgb { 203 66 70 }
 	color_ui = rgb { 203 66 70 }
 }
@@ -247,8 +247,8 @@ BRM = {
 }
 
 PHI = {
-	color = rgb { 255 191 191 }
-	color_ui = rgb { 255 191 191 }
+	color = rgb { 112 109 199 }
+	color_ui = rgb { 112 109 199 }
 }
 
 AST = {
@@ -257,8 +257,8 @@ AST = {
 }
 
 INS = {
-	color = rgb { 255 191 191 }
-	color_ui = rgb { 255 191 191 }
+	color = rgb { 230 147 131 }
+	color_ui = rgb { 230 147 131 }
 }
 
 TIB = {

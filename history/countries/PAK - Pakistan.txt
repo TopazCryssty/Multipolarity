@@ -5,13 +5,13 @@ set_war_support = 0.50
 
 # Базовая политика (Нейтралитет)
 set_politics = {
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	communism = 68
-	neutrality = 28
-	fascism = 4
+	communism = 28
+	neutrality = 64
+	fascism = 8
 }

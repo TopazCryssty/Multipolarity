@@ -19,11 +19,54 @@ set_popularities = {
 }
 
 set_convoys = 1130
-puppet = GEN
-puppet = DEN
-puppet = RKA
-puppet = RKH
-puppet = RKG
-puppet = SER
-puppet = SLO
+
+set_autonomy = {
+    target = GEH
+    autonomous_state = autonomy_integrated_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = DEN
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = RKA
+    autonomous_state = autonomy_integrated_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = RKH
+    autonomous_state = autonomy_integrated_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = RKG
+    autonomous_state = autonomy_integrated_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = SER
+    autonomous_state = autonomy_satellite
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
+set_autonomy = {
+    target = SLO
+    autonomous_state = autonomy_integrated_puppet
+    end_wars = no
+    end_civil_wars = no
+    keep_subjects = no
+}
 
